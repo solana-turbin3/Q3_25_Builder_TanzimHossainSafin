@@ -1,0 +1,9 @@
+[package]
+name = "Desktop"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+solana-sdk = "1.17.15"
+solana-client = "1.17.15"
+bs58 = "0.5"
