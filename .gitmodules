@@ -1,3 +1,6 @@
 [submodule "vault"]
 	path = vault
 	url = git@github.com:TanzimHossainSafin/Vault_Programme.git
+[submodule "Escrow_Program"]
+	path = Escrow_Program
+	url = git@github.com:TanzimHossainSafin/Escrow_Program.git
