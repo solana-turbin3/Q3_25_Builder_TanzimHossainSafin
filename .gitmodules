@@ -7,3 +7,6 @@
 [submodule "NFT_marketPlace_submodule"]
 	path = NFT_marketPlace_submodule
 	url = git@github.com:TanzimHossainSafin/NFT_marketPlace.git
+[submodule "capstone"]
+	path = capstone
+	url = git@github.com:TanzimHossainSafin/Capstone.git
