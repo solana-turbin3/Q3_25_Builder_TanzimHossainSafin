@@ -4,3 +4,6 @@
 [submodule "Escrow_Program"]
 	path = Escrow_Program
 	url = git@github.com:TanzimHossainSafin/Escrow_Program.git
+[submodule "NFT_marketPlace_submodule"]
+	path = NFT_marketPlace_submodule
+	url = git@github.com:TanzimHossainSafin/NFT_marketPlace.git
